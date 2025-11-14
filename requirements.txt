@@ -1,5 +1,0 @@
-prophet
-pandas
-matplotlib
-streamlit
-plotly
